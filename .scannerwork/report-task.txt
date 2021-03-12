@@ -1,0 +1,7 @@
+organization=alessandro-costa
+projectKey=Alessandro-Costa_TestingSonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18114
+dashboardUrl=https://sonarcloud.io/dashboard?id=Alessandro-Costa_TestingSonar
+ceTaskId=AXgmaPAzQbDLSOznmhm8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgmaPAzQbDLSOznmhm8
